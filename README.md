@@ -89,13 +89,23 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
 ## Parte 4: Experimenta
 
 - Cambia el valor de la variable `nombre` por el tuyo y recarga la página.
+<img width="845" height="52" alt="image" src="https://github.com/user-attachments/assets/af45094c-b1f3-4696-afc6-fb392b42d567" />
+
 - Añade una línea que sume dos números y muestre el resultado con `console.log`.
+<img width="847" height="86" alt="image" src="https://github.com/user-attachments/assets/2c2622d1-b28d-4441-859f-2fade7f98d73" />
+
 - Añade otra variable con tu apellido y muestra un saludo completo.
-- Modifica el saludo para que incluya el apellido en mayúsculas. Busca en la consola cómo convertir una cadena a mayúsculas. Para ello usa un literal de cadena (con tu nombre) seguido del operador punto (`.`) 
+  <img width="852" height="86" alt="image" src="https://github.com/user-attachments/assets/66ce1d7e-0154-44a3-a4fc-cc2f575b1de6" />
+
+- Modifica el saludo para que incluya el apellido en mayúsculas. Busca en la consola cómo convertir una cadena a mayúsculas. Para ello usa un literal de cadena (con tu nombre) seguido del operador punto (`.`)
+  <img width="851" height="77" alt="image" src="https://github.com/user-attachments/assets/413347b0-c5b5-48a4-87bd-7e8c07e99be2" />
+
 - Modifica el archivo para que el saludo se muestre en la página web en lugar de la consola. Usa `document.body.innerHTML` para esto:
    ```js
    document.body.innerHTML = "<h1>¡Hola, " + nombre + "!</h1>";
    ```
+  <img width="1906" height="162" alt="image" src="https://github.com/user-attachments/assets/b8740330-3ed8-4717-9801-0fea40f903dc" />
+
 - Publica tu proyecto en el repositorio de GitHub y usa GitHub Pages para alojarlo. Sigue [esta guía](https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site) para hacerlo.
 
 
