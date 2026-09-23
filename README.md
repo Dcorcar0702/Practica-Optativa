@@ -78,8 +78,12 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
    </body>
    </html>
    ```
+   
+   <img width="1367" height="397" alt="image" src="https://github.com/user-attachments/assets/b83ea712-7e89-4d59-ba8a-cb627254dfa3" />
+
 5. Desde VSCode abre el archivo `hola.html` en tu navegador.
 6. Observa el resultado en la consola del navegador.
+<img width="852" height="80" alt="image" src="https://github.com/user-attachments/assets/ea3bfa7a-c5af-4371-ba89-691a461a9ca7" />
 
 ## Parte 4: Experimenta
 
