@@ -58,6 +58,8 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
 ## Parte 3: Tu primer archivo HTML + JavaScript
 
 1. Crea una carpeta llamada `00JSyEntorno` dentro de tu espacio de trabajo.
+ <img width="1401" height="242" alt="image" src="https://github.com/user-attachments/assets/527d6775-0bcd-4ab2-92db-64e0ddb0debb" />
+  
 2. Dentro de esa carpeta, crea un archivo llamado `hola.html`.
 3. Escribe el siguiente código en `hola.html`:
    ```html
@@ -76,8 +78,8 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
    </body>
    </html>
    ```
-4. Desde VSCode abre el archivo `hola.html` en tu navegador.
-5. Observa el resultado en la consola del navegador.
+5. Desde VSCode abre el archivo `hola.html` en tu navegador.
+6. Observa el resultado en la consola del navegador.
 
 ## Parte 4: Experimenta
 
