@@ -1,4 +1,4 @@
-David Córdoba Carreto
+<img width="483" height="172" alt="image" src="https://github.com/user-attachments/assets/930be3bd-3947-4361-9eb8-a12c35d6bbd1" />David Córdoba Carreto
 # JS desde cero en el navegador... antes que REACT.
 
 El objetivo de esta práctica es crear un formulario básico en HTML y JavaScript que permita saludar a un usuario. Publicarlo en un repositorio de GitHub con GitHub Pages. Todo debes documentarlo con un pantallazo en este mismo archivo y personalizarlo con tu tus datos personales.
@@ -151,15 +151,39 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
 ## Parte 6: Preguntas de reflexión
 
 1. ¿Qué hace `console.log`?
-2. ¿Qué ocurre si cambias el valor de la variable desde la consola? ¿Se puede?
-3. ¿Para qué sirve la consola del navegador en este contexto?
-4. Para qué sirve el archivo HTML en este contexto?
-5. ¿Por qué es una buena práctica separar el código JavaScript del HTML?
-6. Por qué se llama Vanilla JavaScript?
-7. Cuándo se usa JavaScript puro y cuándo se usan frameworks o librerías como REACT?
-8. Cómo se define una función en JS
-9. Sobre el código demuestra la diferencia entre let y const
-10. Indica en el código:
+   Devuelve un valor en la consola del navegador.
+   
+3. ¿Qué ocurre si cambias el valor de la variable desde la consola? ¿Se puede?
+   Se puede modificar, pero al no ser el valor original al recargar la página vuelve al original.
+   
+5. ¿Para qué sirve la consola del navegador en este contexto?
+   Se suele utilizar como entorno de pruebas o debug.
+   
+7. Para qué sirve el archivo HTML en este contexto?
+   Es la estructura de la página dónde se definen los elementos visuales, y se aloja el archivo JS en él.
+   
+8. ¿Por qué es una buena práctica separar el código JavaScript del HTML?
+    Por fines de reutilización de código, limpieza y organización del mismo.
+   
+10. Por qué se llama Vanilla JavaScript?
+    Porque es entendido por los navegadores de manera nativa, por eso se refiere como puro.
+  
+12. Cuándo se usa JavaScript puro y cuándo se usan frameworks o librerías como REACT?
+    JS puro se utiliza en proyectos pequeños, de poca complejidad y de carga ligera.
+    Como un Framework es una ayuda al programador, se utiliza en webs complejas o escalables, y facilita el dinamismo de la web.
+    
+14. Cómo se define una función en JS
+    function nombre_funcion(atributo){
+      return "Lo que quieras que devuelva";
+    }
+16. Sobre el código demuestra la diferencia entre let y const
+    let declara una variable que se puede modificar.
+    <img width="136" height="282" alt="image" src="https://github.com/user-attachments/assets/1abc4098-dbfc-42e3-ab8a-19f58dcecc0c" />
+
+    Mientras que const, declara una constante la cual no se puede modificar
+    <img width="483" height="172" alt="image" src="https://github.com/user-attachments/assets/1b1b632a-1437-483a-bfd6-69c197691a0b" />
+
+18. Indica en el código:
    1. Si puede evitarse el uso de let. Qué hace
    2. Cuántos eventos hay en el código, cuáles son y para qué sirven
 
