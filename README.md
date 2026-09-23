@@ -193,7 +193,14 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
 
 16. Indica en el código:
    1. Si puede evitarse el uso de let. Qué hace
+
+    Let reserva un espacio en memoria para el valor que almacena la variable. No puede evitar usarse, siempre se tiene que declarar la variable.
+      
    2. Cuántos eventos hay en el código, cuáles son y para qué sirven
+
+    Hay 2 un DOMContentLoad y sirve para que el js espere a que el HTML esté completamente cargado, y posteriormente se ejecute.
+
+    Y un submit que sirve para que el usuario pueda enviar, en este caso el formulario.
 
 
 
