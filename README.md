@@ -1,4 +1,4 @@
-<img width="483" height="172" alt="image" src="https://github.com/user-attachments/assets/930be3bd-3947-4361-9eb8-a12c35d6bbd1" />David Córdoba Carreto
+David Córdoba Carreto
 # JS desde cero en el navegador... antes que REACT.
 
 El objetivo de esta práctica es crear un formulario básico en HTML y JavaScript que permita saludar a un usuario. Publicarlo en un repositorio de GitHub con GitHub Pages. Todo debes documentarlo con un pantallazo en este mismo archivo y personalizarlo con tu tus datos personales.
@@ -155,29 +155,35 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
    Devuelve un valor en la consola del navegador.
    
 2. ¿Qué ocurre si cambias el valor de la variable desde la consola? ¿Se puede?
+
    Se puede modificar, pero al no ser el valor original al recargar la página vuelve al original.
    
 3. ¿Para qué sirve la consola del navegador en este contexto?
    Se suele utilizar como entorno de pruebas o debug.
    
-4. Para qué sirve el archivo HTML en este contexto?
+5. Para qué sirve el archivo HTML en este contexto?
+   
    Es la estructura de la página dónde se definen los elementos visuales, y se aloja el archivo JS en él.
    
-5. ¿Por qué es una buena práctica separar el código JavaScript del HTML?
+7. ¿Por qué es una buena práctica separar el código JavaScript del HTML?
+   
     Por fines de reutilización de código, limpieza y organización del mismo.
    
-6. Por qué se llama Vanilla JavaScript?
+9. Por qué se llama Vanilla JavaScript?
+    
     Porque es entendido por los navegadores de manera nativa, por eso se refiere como puro.
   
-7. Cuándo se usa JavaScript puro y cuándo se usan frameworks o librerías como REACT?
+11. Cuándo se usa JavaScript puro y cuándo se usan frameworks o librerías como REACT?
+    
     JS puro se utiliza en proyectos pequeños, de poca complejidad y de carga ligera.
     Como un Framework es una ayuda al programador, se utiliza en webs complejas o escalables, y facilita el dinamismo de la web.
     
-8. Cómo se define una función en JS
+13. Cómo se define una función en JS
+    
     function nombre_funcion(atributo){
       return "Lo que quieras que devuelva";
     }
-9. Sobre el código demuestra la diferencia entre let y const
+15. Sobre el código demuestra la diferencia entre let y const
     
     let declara una variable que se puede modificar.
     <img width="136" height="282" alt="image" src="https://github.com/user-attachments/assets/1abc4098-dbfc-42e3-ab8a-19f58dcecc0c" />
@@ -185,7 +191,7 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
     Mientras que const, declara una constante la cual no se puede modificar
     <img width="483" height="172" alt="image" src="https://github.com/user-attachments/assets/1b1b632a-1437-483a-bfd6-69c197691a0b" />
 
-10. Indica en el código:
+16. Indica en el código:
    1. Si puede evitarse el uso de let. Qué hace
    2. Cuántos eventos hay en el código, cuáles son y para qué sirven
 
