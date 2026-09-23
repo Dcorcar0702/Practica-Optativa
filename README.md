@@ -52,6 +52,9 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
    nombre
    ```
 
+<img width="691" height="353" alt="image" src="https://github.com/user-attachments/assets/50bc871d-a819-4dea-b903-abc0e4d8c319" />
+
+
 ## Parte 3: Tu primer archivo HTML + JavaScript
 
 1. Crea una carpeta llamada `00JSyEntorno` dentro de tu espacio de trabajo.
