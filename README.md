@@ -56,7 +56,7 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
 
 
 ## Parte 3: Tu primer archivo HTML + JavaScript
-https://dcorcar0702.github.io/Practica-Optativa/hola
+[Práctica Hola](https://dcorcar0702.github.io/Practica-Optativa/hola)
 
 1. Crea una carpeta llamada `00JSyEntorno` dentro de tu espacio de trabajo.
  <img width="1401" height="242" alt="image" src="https://github.com/user-attachments/assets/527d6775-0bcd-4ab2-92db-64e0ddb0debb" />
@@ -112,7 +112,7 @@ https://dcorcar0702.github.io/Practica-Optativa/hola
 
 ## parte 5: formulario HTML + JavaScript
 
-https://dcorcar0702.github.io/Practica-Optativa/formulario
+[Práctica Formulario](https://dcorcar0702.github.io/Practica-Optativa/formulario)
 
 1. Crea un archivo llamado `formulario.html` en la misma carpeta `00JSyEntorno`.
 2. Crea un archivo llamado `formulario.js` en la misma carpeta `00JSyEntorno`.
